@@ -1,0 +1,9 @@
+# Current Codex discovers standalone project agents in .codex/agents/*.toml.
+# No per-role registration tables or model/provider overrides are needed.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[agents]
+enabled = true
+# Excludes the primary Lead. Queue work when the runtime imposes a lower limit.
+max_concurrent_threads_per_session = 3
