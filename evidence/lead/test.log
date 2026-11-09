@@ -1,0 +1,24 @@
+$ npm test
+cwd: /Users/viggy/Documents/Github/spatial-calendar
+snapshot: 985a4da313aec24e2d8dfdae4f7c119c79ba66ee33409571dd9efca39b35402d
+
+> spatial-family-calendar@0.1.0 test
+> vitest run
+
+
+ RUN  v3.2.7 /Users/viggy/Documents/Github/spatial-calendar
+
+ ✓ src/client/time.test.ts (6 tests) 13ms
+ ✓ src/shared/contracts.test.ts (5 tests) 5ms
+ ✓ src/client/api.test.ts (3 tests) 6ms
+ ✓ src/server/app.test.ts (38 tests) 535ms
+ ✓ src/client/App.test.tsx (9 tests) 701ms
+
+ Test Files  5 passed (5)
+      Tests  61 passed (61)
+   Start at  23:32:09
+   Duration  1.40s (transform 138ms, setup 0ms, collect 400ms, tests 1.26s, environment 317ms, prepare 262ms)
+
+
+exit: 0
+

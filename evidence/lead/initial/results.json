@@ -1,0 +1,40 @@
+{
+  "cwd": "/Users/viggy/Documents/Github/spatial-calendar",
+  "date": "2026-10-24T06:27:34.186Z",
+  "node": "v26.3.0",
+  "os": "darwin 25.5.0",
+  "baseRevision": "703590e9ded024cc02d4a168e86302764f1f89dd",
+  "snapshot": "4d8935ef8771c5826af3f11b0714dbce68b112b017fc83d40f32b98126614583",
+  "checks": [
+    {
+      "name": "lint",
+      "command": "npm run lint",
+      "exit": 0,
+      "signal": null
+    },
+    {
+      "name": "typecheck",
+      "command": "npm run typecheck",
+      "exit": 0,
+      "signal": null
+    },
+    {
+      "name": "test",
+      "command": "npm test",
+      "exit": 0,
+      "signal": null
+    },
+    {
+      "name": "build",
+      "command": "npm run build",
+      "exit": 0,
+      "signal": null
+    },
+    {
+      "name": "e2e",
+      "command": "npm run test:e2e",
+      "exit": 0,
+      "signal": null
+    }
+  ]
+}

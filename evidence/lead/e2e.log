@@ -1,0 +1,29 @@
+$ npm run test:e2e
+cwd: /Users/viggy/Documents/Github/spatial-calendar
+snapshot: 985a4da313aec24e2d8dfdae4f7c119c79ba66ee33409571dd9efca39b35402d
+
+> spatial-family-calendar@0.1.0 test:e2e
+> playwright test
+
+
+Running 10 tests using 1 worker
+
+  ✓   1 [desktop] › tests/e2e/calendar.spec.ts:59:1 › three-month overview preserves focal date across presets, continuous zoom and navigation (800ms)
+  ✓   2 [desktop] › tests/e2e/calendar.spec.ts:88:1 › travel details, conflicts and dialog focus are usable with a keyboard (340ms)
+  ✓   3 [desktop] › tests/e2e/calendar.spec.ts:122:1 › source selection persists on reload and preserves other calendars (414ms)
+  ✓   4 [desktop] › tests/e2e/calendar.spec.ts:142:1 › account connect, failed sync, recovery, disconnect and reconnect work against the API (778ms)
+  ✓   5 [desktop] › tests/e2e/calendar.spec.ts:177:1 › meaningful secondary and event text remains readable in overview and dialogs (313ms)
+  ✓   6 [mobile] › tests/e2e/calendar.spec.ts:59:1 › three-month overview preserves focal date across presets, continuous zoom and navigation (654ms)
+  ✓   7 [mobile] › tests/e2e/calendar.spec.ts:88:1 › travel details, conflicts and dialog focus are usable with a keyboard (338ms)
+  ✓   8 [mobile] › tests/e2e/calendar.spec.ts:122:1 › source selection persists on reload and preserves other calendars (531ms)
+  ✓   9 [mobile] › tests/e2e/calendar.spec.ts:142:1 › account connect, failed sync, recovery, disconnect and reconnect work against the API (899ms)
+  ✓  10 [mobile] › tests/e2e/calendar.spec.ts:177:1 › meaningful secondary and event text remains readable in overview and dialogs (367ms)
+
+  10 passed (6.2s)
+(node:16403) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:16517) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+exit: 0
+

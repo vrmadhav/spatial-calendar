@@ -1,0 +1,32 @@
+[
+  {
+    "width": 375,
+    "state": "overview",
+    "belowTarget": []
+  },
+  {
+    "width": 375,
+    "state": "accounts",
+    "belowTarget": []
+  },
+  {
+    "width": 375,
+    "state": "event",
+    "belowTarget": []
+  },
+  {
+    "width": 1440,
+    "state": "overview",
+    "belowTarget": []
+  },
+  {
+    "width": 1440,
+    "state": "accounts",
+    "belowTarget": []
+  },
+  {
+    "width": 1440,
+    "state": "event",
+    "belowTarget": []
+  }
+]

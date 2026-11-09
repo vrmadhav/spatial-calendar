@@ -1,0 +1,158 @@
+[
+  {
+    "width": 375,
+    "touchPan": {
+      "before": 20697,
+      "after": 20723.376811594204
+    },
+    "geometry": [
+      {
+        "level": "Week",
+        "error": 0,
+        "width": 345,
+        "center": 20742.5
+      },
+      {
+        "level": "Day",
+        "error": 0,
+        "width": 345,
+        "center": 20742.5
+      },
+      {
+        "level": "Month",
+        "error": 0,
+        "width": 345,
+        "center": 20742.5
+      }
+    ],
+    "sliderError": 3.069544618483633e-11,
+    "colors": [
+      {
+        "selector": ".pan-hint",
+        "text": "↔ Drag or shift-scroll to explore",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(255, 254, 250)",
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "Today",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(241, 243, 233)",
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 19Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": "rgb(244, 229, 219)",
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".page-footer",
+        "text": " 2 accounts · 4 calendars in viewSimulated accounts and travel details. Changes reset when the server restarts.",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(250, 249, 246)",
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".zone-label",
+        "text": "America/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(251, 251, 245)",
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Fri, Oct 23",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(255, 254, 250)",
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "touchPan": {
+      "before": 20697,
+      "after": 20705.09609035071
+    },
+    "geometry": [
+      {
+        "level": "Week",
+        "error": 0,
+        "width": 1124,
+        "center": 20742.5
+      },
+      {
+        "level": "Day",
+        "error": 0,
+        "width": 1124,
+        "center": 20742.5
+      },
+      {
+        "level": "Month",
+        "error": 0,
+        "width": 1124,
+        "center": 20742.5
+      }
+    ],
+    "sliderError": 1.000444171950221e-10,
+    "colors": [
+      {
+        "selector": ".pan-hint",
+        "text": "↔ Drag or shift-scroll to explore",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(255, 254, 250)",
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "Today",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(241, 243, 233)",
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 19Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": "rgb(244, 229, 219)",
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".page-footer",
+        "text": " 2 accounts · 4 calendars in viewSimulated accounts and travel details. Changes reset when the server restarts.",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(250, 249, 246)",
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".zone-label",
+        "text": "America/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(251, 251, 245)",
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Fri, Oct 23",
+        "color": "rgb(96, 109, 89)",
+        "background": "rgb(255, 254, 250)",
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      }
+    ]
+  }
+]

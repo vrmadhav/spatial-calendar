@@ -1,0 +1,6 @@
+{"value":"+010000-01-01T00:00:00.000Z","accepted":false}
+{"value":"-000001-01-01T00:00:00.000Z","accepted":false}
+{"value":"2026-02-30T00:00:00.000Z","accepted":false}
+{"value":"2026-10-23T12:00:00Z","accepted":false}
+{"value":"2026-10-23T12:00:00.000+00:00","accepted":false}
+PASS: exact four-digit-year canonical instants only

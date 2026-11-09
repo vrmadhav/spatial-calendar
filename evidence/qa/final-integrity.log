@@ -1,0 +1,11 @@
+{
+  "cwd": "/Users/viggy/Documents/Github/spatial-calendar",
+  "time": "2026-10-24T06:33:04.014Z",
+  "sourceManifest": "985a4da313aec24e2d8dfdae4f7c119c79ba66ee33409571dd9efca39b35402d",
+  "files": 50,
+  "changed": [],
+  "gitBase": "703590e9ded024cc02d4a168e86302764f1f89dd",
+  "npm": "11.16.0",
+  "node": "v26.3.0",
+  "hostZone": "America/Los_Angeles"
+}

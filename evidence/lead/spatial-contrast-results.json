@@ -1,0 +1,2020 @@
+[
+  {
+    "width": 375,
+    "state": "overview",
+    "pageWidth": 375,
+    "entries": [
+      {
+        "selector": ".pan-hint",
+        "text": "↔ Drag or shift-scroll to explore",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "Today",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 2 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 2 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 5 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 19Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 23Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "⚑ Overlap · Oct 25Alex",
+        "color": "rgb(65, 101, 115)",
+        "background": [
+          226,
+          235,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.201267391373237
+      },
+      {
+        "selector": ".event-meta",
+        "text": "⚑ Overlap · Oct 25Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 28Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 31Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 3Alex",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 10Alex",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 10Alex",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 24Alex",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-name",
+        "text": "✳ Coffee with Maya",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ Morning walk",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "+ Family dentist",
+        "color": "rgb(65, 101, 115)",
+        "background": [
+          226,
+          235,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.201267391373237
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ School rehearsal",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ Saturday soccer",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "✳ Dinner with the Chens",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-name",
+        "text": "▤ Parent teacher meeting",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-name",
+        "text": "↗ Desert weekend",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-name",
+        "text": "↗ Fly to Palm Springs",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-name",
+        "text": "▤ School break",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".page-footer",
+        "text": "2 accounts · 4 calendars in viewSimulated accounts and travel details. Changes r",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".zone-label",
+        "text": "America/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          251,
+          251,
+          245
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Fri, Oct 23",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Sun, Oct 25 · Overlap",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Sun, Oct 25 · Overlap",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Wed, Oct 28",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".date-tick",
+        "text": "7",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "14",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "21",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "28",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "5",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "12",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "19",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "26",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "2",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "9",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "16",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "23",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "30",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".eyebrow",
+        "text": "A LITTLE PERSPECTIVE GOES A LONG WAY",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".demo-badge",
+        "text": "Demo data",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          240,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.884197603705004
+      },
+      {
+        "selector": ".zoom-control",
+        "text": "OverviewDetail",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".calendar-legend",
+        "text": "TravelSchoolActivitiesHealthSocialAmerica/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          251,
+          251,
+          245
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".section-heading>span",
+        "text": "The next little things, and the big ones.",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "state": "event dialog",
+    "pageWidth": 375,
+    "entries": [
+      {
+        "selector": ".event-details dt",
+        "text": "When",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Where",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Who’s going",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Calendar",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Notes",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dd small",
+        "text": "America/Los_Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dd small",
+        "text": "Alex Rivera · Simulated Google account",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".detail-distance",
+        "text": "4 days ago",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "13px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".detail-category",
+        "text": "social",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "state": "account dialog",
+    "pageWidth": 375,
+    "entries": [
+      {
+        "selector": ".dialog-intro",
+        "text": "Bring your household together with simulated Google accounts. No sign-in or real",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "12px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-footnote",
+        "text": "Source selection is shared with your household. Disconnecting removes that accou",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".sync-description",
+        "text": "Last synced 11:29 PM",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".sync-description",
+        "text": "Last synced 11:29 PM",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".demo-tools summary",
+        "text": "Demo tools",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".demo-tools summary",
+        "text": "Demo tools",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Connected",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Connected",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Available",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".subtle-button",
+        "text": "Disconnect",
+        "color": "rgb(129, 91, 64)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.938866219552946
+      },
+      {
+        "selector": ".subtle-button",
+        "text": "Disconnect",
+        "color": "rgb(129, 91, 64)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.938866219552946
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "overview",
+    "pageWidth": 1440,
+    "entries": [
+      {
+        "selector": ".pan-hint",
+        "text": "↔ Drag or shift-scroll to explore",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "Today",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 2 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 2 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".distance-badge",
+        "text": "In 5 days",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          241,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.893364699751308
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 19Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 23Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "⚑ Overlap · Oct 25Alex",
+        "color": "rgb(65, 101, 115)",
+        "background": [
+          226,
+          235,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.201267391373237
+      },
+      {
+        "selector": ".event-meta",
+        "text": "⚑ Overlap · Oct 25Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 28Jamie",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Oct 31Alex",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 3Alex",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 10Alex",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 10Alex",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-meta",
+        "text": "Nov 24Alex",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-name",
+        "text": "✳ Coffee with Maya",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ Morning walk",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "+ Family dentist",
+        "color": "rgb(65, 101, 115)",
+        "background": [
+          226,
+          235,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.201267391373237
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ School rehearsal",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "◇ Saturday soccer",
+        "color": "rgb(101, 87, 125)",
+        "background": [
+          232,
+          230,
+          241
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.297658050022936
+      },
+      {
+        "selector": ".event-name",
+        "text": "✳ Dinner with the Chens",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      },
+      {
+        "selector": ".event-name",
+        "text": "▤ Parent teacher meeting",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".event-name",
+        "text": "↗ Desert weekend",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-name",
+        "text": "↗ Fly to Palm Springs",
+        "color": "rgb(83, 101, 55)",
+        "background": [
+          233,
+          237,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.358996062940035
+      },
+      {
+        "selector": ".event-name",
+        "text": "▤ School break",
+        "color": "rgb(120, 97, 47)",
+        "background": [
+          244,
+          233,
+          204
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.894751781727688
+      },
+      {
+        "selector": ".page-footer",
+        "text": "2 accounts · 4 calendars in viewSimulated accounts and travel details. Changes r",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".zone-label",
+        "text": "America/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          251,
+          251,
+          245
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Fri, Oct 23",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Sun, Oct 25 · Overlap",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Sun, Oct 25 · Overlap",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".upcoming-copy small",
+        "text": "Wed, Oct 28",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".date-tick",
+        "text": "7",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "14",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "21",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "28",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "5",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "12",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "19",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "26",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "2",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "9",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "16",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "23",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".date-tick",
+        "text": "30",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          253,
+          252,
+          248
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.342331113909589
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".month-label small",
+        "text": "2026",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".eyebrow",
+        "text": "A LITTLE PERSPECTIVE GOES A LONG WAY",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      },
+      {
+        "selector": ".demo-badge",
+        "text": "Demo data",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          240,
+          243,
+          233
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.884197603705004
+      },
+      {
+        "selector": ".zoom-control",
+        "text": "OverviewDetail",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".calendar-legend",
+        "text": "TravelSchoolActivitiesHealthSocialAmerica/Los Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          251,
+          251,
+          245
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.280456931462406
+      },
+      {
+        "selector": ".sidebar-description",
+        "text": "Different days. One family.",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "11px",
+        "ratio": 4.914659998328468
+      },
+      {
+        "selector": ".person-heading small",
+        "text": "Google Calendar · Demo",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.914659998328468
+      },
+      {
+        "selector": ".person-heading small",
+        "text": "Google Calendar · Demo",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.914659998328468
+      },
+      {
+        "selector": ".source-option",
+        "text": "Alex · Personal",
+        "color": "rgb(38, 62, 54)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "11px",
+        "ratio": 10.313060495585011
+      },
+      {
+        "selector": ".source-option",
+        "text": "Family travel",
+        "color": "rgb(38, 62, 54)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "11px",
+        "ratio": 10.313060495585011
+      },
+      {
+        "selector": ".source-option",
+        "text": "Jamie · Personal",
+        "color": "rgb(38, 62, 54)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "11px",
+        "ratio": 10.313060495585011
+      },
+      {
+        "selector": ".source-option",
+        "text": "School & activities",
+        "color": "rgb(38, 62, 54)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "11px",
+        "ratio": 10.313060495585011
+      },
+      {
+        "selector": ".sidebar-bottom small",
+        "text": "Demo owner",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          242,
+          243,
+          237
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 4.914659998328468
+      },
+      {
+        "selector": ".section-heading>span",
+        "text": "The next little things, and the big ones.",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          250,
+          249,
+          246
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.209056575625417
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "event dialog",
+    "pageWidth": 1440,
+    "entries": [
+      {
+        "selector": ".event-details dt",
+        "text": "When",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Where",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Who’s going",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Calendar",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dt",
+        "text": "Notes",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dd small",
+        "text": "America/Los_Angeles",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".event-details dd small",
+        "text": "Alex Rivera · Simulated Google account",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".detail-distance",
+        "text": "4 days ago",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "13px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".detail-category",
+        "text": "social",
+        "color": "rgb(128, 84, 60)",
+        "background": [
+          244,
+          229,
+          219
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.252567666773193
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "account dialog",
+    "pageWidth": 1440,
+    "entries": [
+      {
+        "selector": ".dialog-intro",
+        "text": "Bring your household together with simulated Google accounts. No sign-in or real",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "12px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-footnote",
+        "text": "Source selection is shared with your household. Disconnecting removes that accou",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".sync-description",
+        "text": "Last synced 11:29 PM",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".sync-description",
+        "text": "Last synced 11:29 PM",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".demo-tools summary",
+        "text": "Demo tools",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".demo-tools summary",
+        "text": "Demo tools",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Connected",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Connected",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".account-status",
+        "text": "Available",
+        "color": "rgb(96, 109, 89)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.4345198363263565
+      },
+      {
+        "selector": ".subtle-button",
+        "text": "Disconnect",
+        "color": "rgb(129, 91, 64)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.938866219552946
+      },
+      {
+        "selector": ".subtle-button",
+        "text": "Disconnect",
+        "color": "rgb(129, 91, 64)",
+        "background": [
+          255,
+          254,
+          250
+        ],
+        "opacity": 1,
+        "fontSize": "10px",
+        "ratio": 5.938866219552946
+      }
+    ]
+  }
+]

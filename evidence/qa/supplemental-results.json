@@ -1,0 +1,37 @@
+{
+  "cwd": "/Users/viggy/Documents/Github/spatial-calendar",
+  "date": "2026-10-24T06:32:33.664Z",
+  "node": "v26.3.0",
+  "os": "darwin 25.5.0",
+  "baseRevision": "703590e9ded024cc02d4a168e86302764f1f89dd",
+  "snapshot": "985a4da313aec24e2d8dfdae4f7c119c79ba66ee33409571dd9efca39b35402d",
+  "npm": "11.16.0",
+  "environment": "Local synthetic demo only; isolated restart API on127.0.0.1:3002; browser UI127.0.0.1:5173 with API127.0.0.1:3001; Chromium",
+  "checks": [
+    {
+      "command": "node evidence/qa/schema-check.mjs",
+      "exit": 0,
+      "status": "PASS",
+      "evidence": "evidence/qa/schema-check.log"
+    },
+    {
+      "command": "node evidence/qa/restart-check.mjs",
+      "exit": 0,
+      "status": "PASS",
+      "evidence": "evidence/qa/restart.log"
+    },
+    {
+      "command": "node evidence/qa/browser-check.mjs",
+      "exit": 0,
+      "status": "PASS",
+      "evidence": "evidence/qa/browser-check.log"
+    },
+    {
+      "command": "node evidence/qa/contrast-audit.mjs",
+      "exit": 0,
+      "status": "PASS",
+      "evidence": "evidence/qa/contrast-audit.log"
+    }
+  ],
+  "note": "Computed contrast audit records measurements; QA inspected all belowTarget arrays (empty). Command exit alone is not the contrast verdict."
+}

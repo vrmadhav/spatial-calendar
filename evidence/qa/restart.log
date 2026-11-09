@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "checks": [
+    "fresh seed has two accounts and selected sources",
+    "selection mutation persists across reads",
+    "source events filtered",
+    "process stop and restart restores seed selection and event IDs"
+  ],
+  "sourceId": "household-rivera-alex-personal",
+  "initialEvents": 12,
+  "filteredEvents": 9,
+  "restoredEvents": 12
+}

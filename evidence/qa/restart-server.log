@@ -1,0 +1,9 @@
+{"event":"api_started","mode":"demo","host":"127.0.0.1","port":3002}
+{"event":"api_request","method":"GET","status":200,"durationMs":2}
+{"event":"api_request","method":"GET","status":200,"durationMs":1}
+{"event":"api_request","method":"PATCH","status":200,"durationMs":1}
+{"event":"api_request","method":"GET","status":200,"durationMs":0}
+{"event":"api_request","method":"GET","status":200,"durationMs":0}
+{"event":"api_started","mode":"demo","host":"127.0.0.1","port":3002}
+{"event":"api_request","method":"GET","status":200,"durationMs":1}
+{"event":"api_request","method":"GET","status":200,"durationMs":1}
